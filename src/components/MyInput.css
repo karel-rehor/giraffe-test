@@ -1,0 +1,12 @@
+.myInput{
+    font-size: 24pt;
+}
+
+div.scrollable{
+    width: 1000px;
+    height: 800px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 20px;
+    border: midnightblue 5px double;
+}

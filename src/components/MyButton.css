@@ -1,0 +1,8 @@
+.myButton {
+    background-color: #aaaaff;
+    height: 24px;
+    width: 60px;
+    align-content: center;
+    display: block;
+    cursor: pointer;
+}
